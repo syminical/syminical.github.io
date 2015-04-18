@@ -2,6 +2,10 @@
 body {
 
 	background-color: black;
+	background-image: url("VFDlogo.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
 	color: lawngreen;
 
 }
