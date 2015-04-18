@@ -1,0 +1,23 @@
+
+body {
+
+	background-color: black;
+	color: lawngreen;
+
+}
+
+h1 {
+
+	font-size: 64px;
+	text-align: center;
+
+}
+
+hr {
+
+	color: lawngreen;
+	border-color: lawngreen;
+	background-color: lawngreen;
+
+}
+
