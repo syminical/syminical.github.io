@@ -1,0 +1,86 @@
+
+/* the world is quiet here */
+
+html {
+
+	height: 100%;
+
+}
+
+body {
+
+	background-color: black;
+	color: lawngreen;
+	height: 100%;
+	background-image: url("images/VFDlogo.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+
+}
+
+
+
+#header {
+
+	top: 0;
+	height: 25%;
+	width: 100%;
+	left: 0;
+	right: 0;
+	z-index: 1;
+	position: fixed;
+	background-color: black;
+
+}
+
+#title {
+
+	font-size: 64px;
+	text-align: center;
+
+}
+
+#separator {
+
+	border-color: lawngreen;
+	margin-top: -10px;
+
+}
+
+
+
+#wrapper {
+
+	height: 100%;
+
+}
+
+#spacer {
+
+	z-index: 2;
+	height: 25%;
+
+}
+
+#content {
+
+	z-index: 3;
+	height: 85%;
+
+}
+
+#footer {
+
+	z-index: 4;
+
+}
+
+.centreImg {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+	
